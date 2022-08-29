@@ -38,7 +38,7 @@ public class Plan {
     private List<Course> courseList;
 
 //    @Column
-//    private List<SpotDto> spotBusket;
+//    private List<place> placeBusket;
 
 //    @ManyToOne
 //    private Member member;

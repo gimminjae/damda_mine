@@ -26,4 +26,12 @@ public class PlanController {
     public String new_plan_Post() {
         return "redirect:/travel/design";
     }
+
+//    @PostMapping("/places/inserbusket")
+//    public String insertBusket(places.place_name, address) {
+//        Plan plan = planRepoosutory.get();
+//        List<place> list = plan.getplaceList();
+//        list.add(places);
+//        return "redirect:/search/design/new";
+//    }
 }
